@@ -1,0 +1,80 @@
+CREATE OR REPLACE VIEW DEPLOYMENT.TOOL_VIEW AS
+
+SELECT T.ID AS "TOOL_ID",
+  T.NAME AS "TOOL_NAME",
+  T.DESCRIPTION AS "DESCRIPTION",
+  TOWNORG.SERVICE_AREA AS "OWNING_ORG",
+  TOWNORG.BU_ID, TOWNORG.BU,
+  TOWNORG.SERVICE_ID,
+  TOWNORG.SERVICE,
+  TOWNORG.SERVICE_AREA_ID, TOWNORG.SERVICE_AREA, TOWNORG.SERVICE_LINE_ID,
+  TOWNORG.SERVICE_LINE, TOWNORG.SERVICE_LINE_COMPONENT_ID, TOWNORG.SERVICE_LINE_COMPONENT,
+  PD.NOTES_ADDRESS AS "TOOL_FOCAL", TCAT.NAME AS "CATEGORY", TTYPE.NAME AS "TYPE",
+  TMAT.NAME AS "MATURITY", SE.NAME AS "SERVICE_ENG_TEAM", TPROC.PROCESS,
+  CASE WHEN T.OWNING_UNIT_ID = 1020 THEN 'GTS SO' ELSE '' END AS "GTS_SO",
+  T.RNC_EXC_MGMT,
+  CASE WHEN TSODA.NUM_ACCTS IS NOT NULL THEN CAST(TSODA.NUM_ACCTS AS VARCHAR(20)) ELSE TREF.TOOL_TYPE END AS "INSTALLED_ACCOUNTS",
+  TREF.BUSINESS_AREA, TREF.LIFECYCLE_STATUS, TREF.GTS_IS_AID, TREF.GLOBAL_PRIVACY_AID, TREF.FAMILY_TYPE,
+  TCHG.VERIFIED_ON, TCHG.MODIFIED_ON, TCHG.MODIFIED_ON AS "LAST_MODIFIED_DATE",
+  CASE WHEN T.ACTIVE = 1 AND TMAT.NAME <> 'Sunset' AND TREF.LIFECYCLE_STATUS <> 'Sunset'
+         AND TCAT.NAME <> 'Client Retained' AND TBU.USED_BY_GTSIS = 'Y'
+         AND (TREF.FAMILY_TYPE = 'Child' OR TREF.FAMILY_TYPE = 'Associate'
+             OR (TREF.FAMILY_TYPE = 'Parent' AND TREF.ASSOC_COUNT < 1))
+  THEN 'TRUE' ELSE 'FALSE' END AS "GLOBAL_DP_SCOPE",
+  T.ACTIVE, T.IS_PUBLISHED, TOOLDEL.DELETED_ON
+  FROM DEPLOYMENT.TOOL T LEFT JOIN DEPLOYMENT.TOOL_CATEGORY TCAT ON TCAT.ID = T.CATEGORY_ID
+                         LEFT JOIN DEPLOYMENT.TOOL_TYPE TTYPE ON TTYPE.ID = T.TYPE_ID
+                         LEFT JOIN GDA.CLASSIFICATION TMAT ON TMAT.ID = T.CLASSIFICATION_ID
+                         LEFT JOIN CORE.PEOPLE_DATA PD ON PD.ID = T.PEOPLE_DATA_ID
+                         LEFT JOIN PLAYBOOK.SERVICE_ENG_TEAM SE ON SE.ID = T.SERVICE_ENG_TEAM_ID
+                         LEFT JOIN ( SELECT TB.TOOL_ID, LISTAGG (CASE WHEN TB.BUSINESS_UNIT_ID = 1020 THEN 'Y' ELSE '' END) AS "USED_BY_GTSIS"
+                                           FROM DEPLOYMENT.TOOL_BU tb GROUP BY TB.TOOL_ID) TBU ON TBU.TOOL_ID = T.ID
+                         LEFT JOIN (SELECT T.ID AS TOOL_ID, T.OWNING_UNIT_ID AS BU_ID, BU.DESCRIPTION AS BU,
+                                            CASE WHEN t.OWNING_UNIT_ID = 1020 THEN T.CLIENT_FIRST_ID ELSE NULL END AS SERVICE_ID,
+                                            CASE WHEN t.OWNING_UNIT_ID = 1020 THEN CF.TITLE ELSE NULL END AS SERVICE,
+                                            T.COMPETENCY_SEGMENT_ID AS SERVICE_AREA_ID, CS.TITLE AS SERVICE_AREA,
+                                            CASE WHEN t.OWNING_UNIT_ID = 1020 THEN T.SERVICE_LINE_ID ELSE NULL END AS SERVICE_LINE_ID,
+                                            CASE WHEN t.OWNING_UNIT_ID = 1020 THEN SL.TITLE ELSE NULL END AS SERVICE_LINE,
+                                            CASE WHEN t.OWNING_UNIT_ID = 1020 THEN T.SERVICE_LINE_COMPONENT_ID ELSE NULL END AS SERVICE_LINE_COMPONENT_ID ,
+                                            CASE WHEN t.OWNING_UNIT_ID = 1020 THEN SLC.TITLE ELSE NULL END AS SERVICE_LINE_COMPONENT
+                                    FROM DEPLOYMENT.TOOL T
+                                    LEFT JOIN CORE.BUSINESS_UNIT BU ON BU.ID = T.OWNING_UNIT_ID
+                                    LEFT JOIN PLAYBOOK.CLIENT_FIRST CF ON CF.ID = T.CLIENT_FIRST_ID
+                                    LEFT JOIN PLAYBOOK.COMPETENCY_SEGMENT CS ON CS.ID = T.COMPETENCY_SEGMENT_ID
+                                    LEFT JOIN PLAYBOOK.SERVICE_LINE SL ON SL.ID = T.SERVICE_LINE_ID
+                                    LEFT JOIN PLAYBOOK.SERVICE_LINE_COMPONENT SLC ON SLC.ID = T.SERVICE_LINE_COMPONENT_ID) AS TOWNORG ON TOWNORG.TOOL_ID = T.ID
+                          LEFT JOIN ( SELECT TP.TOOL_ID,
+                                             COALESCE(LISTAGG(P.TITLE, ', '), '') || CASE WHEN LISTAGG(P.TITLE, ', ') IS NOT NULL AND LISTAGG(SF.TITLE, ', ') IS NOT NULL THEN ', ' ELSE '' END || COALESCE(LISTAGG(SF.TITLE, ', '), '') AS "PROCESS"
+                                      FROM DEPLOYMENT.TOOL_PROCESS TP
+                                      LEFT JOIN PROCESS.PROCESS P ON (P.ID = TP.PAGE_ID AND TP.PAGE_TYPE_ID = 21 AND TP.PAGE_ID <> 0)
+                                      LEFT JOIN PROCESS.SERVICE_FLOW SF ON (SF.ID = TP.PAGE_ID AND TP.PAGE_TYPE_ID = 22 AND TP.PAGE_ID <> 0) GROUP BY TP.TOOL_ID) AS TPROC ON TPROC.TOOL_ID = T.ID
+                          LEFT JOIN ( SELECT TR.TOOL_ID,
+                                             LISTAGG(COALESCE (CASE WHEN TR.TOOL_REF_TYPE_ID = 3 THEN TR.DESCRIPTION END, '')) AS "TOOL_TYPE",
+                                             LISTAGG(COALESCE (CASE WHEN TR.TOOL_REF_TYPE_ID = 5 THEN TR.NAME END, '')) AS "BUSINESS_AREA",
+                                             LISTAGG(COALESCE (CASE WHEN TR.TOOL_REF_TYPE_ID = 8 THEN TR.NAME END, '')) AS "LIFECYCLE_STATUS",
+                                             LISTAGG(COALESCE (CASE WHEN TR.TOOL_REF_TYPE_ID = 14 THEN TR.NAME END, '')) AS "GTS_IS_AID",
+                                             LISTAGG(COALESCE (CASE WHEN TR.TOOL_REF_TYPE_ID = 15 THEN TR.NAME END, '')) AS "GLOBAL_PRIVACY_AID",
+                                             LISTAGG(COALESCE (CASE WHEN TR.TOOL_REF_TYPE_ID = 28 THEN TR.NAME END, '')) AS "FAMILY_TYPE",
+                                             COUNT(CASE WHEN TR.TOOL_REF_TYPE_ID = 29 THEN TR.INTEGER_VALUE END) AS "ASSOC_COUNT"
+                                       FROM DEPLOYMENT.TOOL_REF TR WHERE TR.ACTIVE = 1 GROUP BY TR.TOOL_ID) AS TREF ON TREF.TOOL_ID = T.ID
+                          LEFT JOIN ( SELECT LASTMOD.TOOL_ID, LASTMOD.MODIFIED_BY, LASTMOD.MODIFIED_ON,
+                                             LASTVER.VERIFIED_BY, LASTVER.VERIFIED_ON
+                                      FROM ( SELECT TOOL_ID, PD.NOTES_ADDRESS AS "MODIFIED_BY", MAX(CREATE_TIME) AS "MODIFIED_ON"
+                                             FROM ( SELECT TOOL_ID, PEOPLE_DATA_ID, CREATE_TIME,
+                                                        ROW_NUMBER() OVER (PARTITION BY TOOL_ID ORDER BY CREATE_TIME DESC) AS RN
+                                                    FROM DEPLOYMENT.CHANGELOG_TOOL) A
+                                                    LEFT JOIN CORE.PEOPLE_DATA PD ON PD.ID = A.PEOPLE_DATA_ID
+                                                    WHERE A.RN = 1 GROUP BY TOOL_ID, PD.NOTES_ADDRESS) AS LASTMOD
+                                             LEFT JOIN ( SELECT TOOL_ID, CT."TIMESTAMP" AS "VERIFIED_ON", PD.NOTES_ADDRESS AS "VERIFIED_BY"
+                                                         FROM DEPLOYMENT.CHANGELOG_TOOL CT
+                                                         LEFT JOIN CORE.PEOPLE_DATA PD ON PD.ID = CT.PEOPLE_DATA_ID
+                                                         WHERE CT.ID IN ( SELECT MAX(CT.ID)
+                                                                               FROM DEPLOYMENT.CHANGELOG_TOOL CT
+                                                                               WHERE CT."TRANSACTION" = 'VERIFY'
+                                                                               GROUP BY TOOL_ID)) LASTVER ON LASTMOD.TOOL_ID = LASTVER.TOOL_ID) AS TCHG ON TCHG.TOOL_ID = T.ID
+                            LEFT JOIN ( SELECT TOOL_ID, COUNT(*) AS "NUM_ACCTS" FROM DEPLOYMENT.TOOL_SODA ts GROUP BY ts.TOOL_ID) TSODA ON TSODA.TOOL_ID = T.ID
+                            LEFT JOIN ( SELECT DELETED_ON, TOOL_ID FROM ( SELECT TOOL_ID , varchar_format("TIMESTAMP", 'YYYY-MM-DD') AS DELETED_ON, TRANSACTION TRAN,
+                                                                                 RANK() OVER(PARTITION BY TOOL_ID ORDER BY "TIMESTAMP" DESC) RNK
+                                                                          FROM DEPLOYMENT.CHANGELOG_TOOL
+                                                                          WHERE TOOL_ID IN ( SELECT ID FROM DEPLOYMENT.Tool WHERE ACTIVE = 0))
+                                        WHERE RNK = 1 AND TRAN = 'REMOVED') AS TOOLDEL ON TOOLDEL.TOOL_ID = T.ID
