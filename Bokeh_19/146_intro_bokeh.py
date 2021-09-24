@@ -14,4 +14,6 @@ p.line(x,y, legend_label="Temp.", line_width=2, color='orange' )
 ### 圆形
 p.circle(x,y, size=[i*5 for i in y ], color='green', alpha=0.5)
 
+
+
 show(p)
