@@ -1,0 +1,11 @@
+[W 18:14:56.791 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 18:14:56.795 NotebookApp] Serving notebooks from local directory: /Users/jingwei/Documents/GitHub/python_t
+[I 18:14:56.795 NotebookApp] Jupyter Notebook 6.4.4 is running at:
+[I 18:14:56.795 NotebookApp] http://JingweideMacBook-Air.local:65530/
+[I 18:14:56.795 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 18:15:20.783 NotebookApp] 404 DELETE /api/sessions/a496d748-a67e-4930-90a4-bebbc10ed7d2 (::1): Session not found: session_id='a496d748-a67e-4930-90a4-bebbc10ed7d2'
+[W 18:15:20.783 NotebookApp] Session not found: session_id='a496d748-a67e-4930-90a4-bebbc10ed7d2'
+[W 18:15:20.784 NotebookApp] 404 DELETE /api/sessions/a496d748-a67e-4930-90a4-bebbc10ed7d2 (::1) 2.330000ms referer=http://localhost:65530/notebooks/review_analysis/review_analyze.ipynb
+[I 18:15:20.939 NotebookApp] Kernel started: 0af7d82e-cd78-4146-961e-034d251b1416, name: python3
+/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)

@@ -11,9 +11,9 @@ month_average = data.groupby(['Month']).mean()
 
 chart_def = """
 {
-    chart: {
-    type: 'spline',
-    inverted: false
+  chart: {
+  type: 'spline',
+  inverted: false
   },
   title: {
     text: 'Atmosphere Temperature by Altitude'
