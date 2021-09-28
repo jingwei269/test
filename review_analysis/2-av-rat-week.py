@@ -6,8 +6,9 @@ from pytz import UTC
 import matplotlib.pyplot as plt 
 
 data = pandas.read_csv("files/reviews.csv", parse_dates=['Timestamp'])
-data['Week'] = data['Timestamp'].dt.strftime('%Y-%U')
+data['Week'] = data['Timestamp'].dt.strftime('%A')
 week_average = data.groupby(['Week']).mean()
+week_average = week_average.sort_values('Week')
 
 chart_def = """
 {
