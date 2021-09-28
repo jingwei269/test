@@ -16,3 +16,29 @@
 [I 13:01:00.106 NotebookApp] Starting buffering for 0af7d82e-cd78-4146-961e-034d251b1416:7f5b010e4701498980bc8848745e6c42
 [I 13:02:31.868 NotebookApp] 302 GET / (::1) 0.710000ms
 [W 13:02:39.230 NotebookApp] Notebook review_analysis/review_analyze.ipynb is not trusted
+[I 13:18:19.936 NotebookApp] Starting buffering for 0af7d82e-cd78-4146-961e-034d251b1416:98ff3d3439b6489c86b1000522aa90c2
+[I 13:21:54.590 NotebookApp] Creating new notebook in /flask
+[I 13:21:55.085 NotebookApp] Kernel started: b8badca6-2e74-48c2-a91b-eaf19c44485e, name: python3
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/ipykernel_launcher.py", line 16, in <module>
+    app.launch_new_instance()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/traitlets/config/application.py", line 845, in launch_instance
+    app.initialize(argv)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/traitlets/config/application.py", line 88, in inner
+    return method(app, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/ipykernel/kernelapp.py", line 632, in initialize
+    self.init_sockets()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/ipykernel/kernelapp.py", line 282, in init_sockets
+    self.shell_port = self._bind_socket(self.shell_socket, self.shell_port)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/ipykernel/kernelapp.py", line 229, in _bind_socket
+    return self._try_bind_socket(s, port)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/ipykernel/kernelapp.py", line 205, in _try_bind_socket
+    s.bind("tcp://%s:%i" % (self.ip, port))
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/zmq/sugar/socket.py", line 214, in bind
+    super().bind(addr)
+  File "zmq/backend/cython/socket.pyx", line 540, in zmq.backend.cython.socket.Socket.bind
+  File "zmq/backend/cython/checkrc.pxd", line 28, in zmq.backend.cython.checkrc._check_rc
+zmq.error.ZMQError: Address already in use
+[I 13:23:55.097 NotebookApp] Saving file at /flask/Untitled.ipynb
+[I 13:24:03.439 NotebookApp] Starting buffering for b8badca6-2e74-48c2-a91b-eaf19c44485e:12b75d5e1c24411eacf7b105d4be884a
+[I 13:34:31.090 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
