@@ -42,3 +42,837 @@ zmq.error.ZMQError: Address already in use
 [I 13:23:55.097 NotebookApp] Saving file at /flask/Untitled.ipynb
 [I 13:24:03.439 NotebookApp] Starting buffering for b8badca6-2e74-48c2-a91b-eaf19c44485e:12b75d5e1c24411eacf7b105d4be884a
 [I 13:34:31.090 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[I 23:16:57.317 NotebookApp] 302 GET / (::1) 2.450000ms
+[I 23:17:12.353 NotebookApp] Creating new notebook in 
+[I 23:17:12.914 NotebookApp] Kernel started: e9eb8819-806a-46ea-af48-4c361a827057, name: python3
+[I 23:19:12.901 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:21:12.892 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:23:12.890 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:25:12.883 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:27:12.880 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:27:52.540 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:29:12.876 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:31:12.874 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:31:18.315 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:33:12.869 NotebookApp] Saving file at /Untitled.ipynb
+[I 23:34:10.681 NotebookApp] Starting buffering for e9eb8819-806a-46ea-af48-4c361a827057:914694937cfa45668a2b838e0a07b709
+[I 06:45:39.535 NotebookApp] 302 GET / (::1) 0.580000ms
+[W 06:45:43.841 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 06:47:43.959 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 06:49:43.935 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 06:50:20.609 NotebookApp] Starting buffering for e9eb8819-806a-46ea-af48-4c361a827057:11599a3436f247708af14d69e93ae0ac
+[I 06:50:22.752 NotebookApp] Restoring connection for e9eb8819-806a-46ea-af48-4c361a827057:11599a3436f247708af14d69e93ae0ac
+[I 08:45:54.574 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 08:47:54.566 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 08:49:54.557 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 09:03:54.525 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 09:05:54.519 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 09:07:54.514 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 09:09:54.513 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 09:11:54.509 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 09:13:54.501 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 09:15:54.499 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 09:17:54.496 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 09:18:41.890 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 09:19:54.483 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 09:21:54.482 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 09:22:56.577 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 09:23:54.467 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 09:25:54.459 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 09:26:00.749 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 09:26:57.555 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 09:27:54.456 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 09:28:20.283 NotebookApp] Starting buffering for e9eb8819-806a-46ea-af48-4c361a827057:11599a3436f247708af14d69e93ae0ac
+[I 09:28:22.194 NotebookApp] Restoring connection for e9eb8819-806a-46ea-af48-4c361a827057:11599a3436f247708af14d69e93ae0ac
+[I 09:43:14.435 NotebookApp] Starting buffering for e9eb8819-806a-46ea-af48-4c361a827057:11599a3436f247708af14d69e93ae0ac
+[I 09:43:16.862 NotebookApp] Restoring connection for e9eb8819-806a-46ea-af48-4c361a827057:11599a3436f247708af14d69e93ae0ac
+[I 09:58:49.241 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 11:42:31.868 NotebookApp] Starting buffering for e9eb8819-806a-46ea-af48-4c361a827057:11599a3436f247708af14d69e93ae0ac
+[I 11:42:33.718 NotebookApp] Restoring connection for e9eb8819-806a-46ea-af48-4c361a827057:11599a3436f247708af14d69e93ae0ac
+[I 12:47:04.181 NotebookApp] Starting buffering for e9eb8819-806a-46ea-af48-4c361a827057:11599a3436f247708af14d69e93ae0ac
+[I 12:47:06.875 NotebookApp] Restoring connection for e9eb8819-806a-46ea-af48-4c361a827057:11599a3436f247708af14d69e93ae0ac
+[I 16:03:43.997 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 16:09:43.954 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 16:11:43.949 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 16:13:43.961 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 16:15:43.956 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 16:17:43.948 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 16:19:43.950 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 16:21:43.942 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 16:23:43.935 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 16:25:55.686 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 16:29:43.905 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 16:30:19.682 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 16:31:43.908 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 16:33:43.904 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 16:35:43.899 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 16:37:43.897 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 16:39:43.879 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 16:41:36.837 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 16:41:37.367 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 16:41:37.547 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 16:43:43.906 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 16:45:43.913 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 16:45:57.055 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 16:46:43.006 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 16:50:36.996 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 16:51:43.895 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 16:53:43.890 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 16:55:43.885 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 16:56:59.048 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 16:56:59.163 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[E 16:56:59.177 NotebookApp] nbconvert failed: Pyppeteer is not installed to support Web PDF conversion. Please install `nbconvert[webpdf]` to enable.
+    Traceback (most recent call last):
+      File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nbconvert/exporters/webpdf.py", line 72, in _check_launch_reqs
+        from pyppeteer import launch
+    ModuleNotFoundError: No module named 'pyppeteer'
+    
+    The above exception was the direct cause of the following exception:
+    
+    Traceback (most recent call last):
+      File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/notebook/nbconvert/handlers.py", line 129, in get
+        output, resources = exporter.from_notebook_node(
+      File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nbconvert/exporters/webpdf.py", line 147, in from_notebook_node
+        self._check_launch_reqs()
+      File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nbconvert/exporters/webpdf.py", line 75, in _check_launch_reqs
+        raise RuntimeError("Pyppeteer is not installed to support Web PDF conversion. "
+    RuntimeError: Pyppeteer is not installed to support Web PDF conversion. Please install `nbconvert[webpdf]` to enable.
+[W 16:56:59.178 NotebookApp] 500 GET /nbconvert/webpdf/Python_Basic.ipynb?download=true (::1): nbconvert failed: Pyppeteer is not installed to support Web PDF conversion. Please install `nbconvert[webpdf]` to enable.
+[E 16:56:59.182 NotebookApp] {
+      "Host": "localhost:65530",
+      "Connection": "keep-alive",
+      "Sec-Ch-Ua": "\"Google Chrome\";v=\"93\", \" Not;A Brand\";v=\"99\", \"Chromium\";v=\"93\"",
+      "Sec-Ch-Ua-Mobile": "?0",
+      "Sec-Ch-Ua-Platform": "\"macOS\"",
+      "Upgrade-Insecure-Requests": "1",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36",
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+      "Sec-Fetch-Site": "same-origin",
+      "Sec-Fetch-Mode": "navigate",
+      "Sec-Fetch-Dest": "document",
+      "Referer": "http://localhost:65530/notebooks/Python_Basic.ipynb",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "zh-CN,zh;q=0.9",
+      "Cookie": "_xsrf=2|2b3b7a42|e91a111a6b1540f3aa65afdf1551e817|1632551390; username-localhost-8888=\"2|1:0|10:1632558821|23:username-localhost-8888|44:NmFhZGZkOTg5OTIxNDA2NjhlOGVkZmZhOWVjZjM2YTI=|07f0fc271e2e04c60a1e55aa55e089e1e88e48bc1ea0e9a1ac441b9d89e8e368\"; jp_token=17c2681535aa4910ae8b49aa0edc1ef3.2KptvvqoFoEOo3tP13eOOcB_6Vo; username-localhost-65530=\"2|1:0|10:1632730207|24:username-localhost-65530|44:YTBiNGQ5ZDA1NzNhNDhkNTg2MjlmYjhiMDU5MWNlZWI=|eea917b53365b95c8a0876328c51d08c49dfc3d676a884885fe8702664361fde\""
+    }
+[E 16:56:59.182 NotebookApp] 500 GET /nbconvert/webpdf/Python_Basic.ipynb?download=true (::1) 61.150000ms referer=http://localhost:65530/notebooks/Python_Basic.ipynb
+[W 16:57:07.270 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[W 16:58:16.697 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[E 16:58:16.886 NotebookApp] nbconvert failed: Pandoc wasn't found.
+    Please check that pandoc is installed:
+    https://pandoc.org/installing.html
+    Traceback (most recent call last):
+      File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/notebook/nbconvert/handlers.py", line 129, in get
+        output, resources = exporter.from_notebook_node(
+      File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nbconvert/exporters/latex.py", line 77, in from_notebook_node
+        return super().from_notebook_node(nb, resources, **kw)
+      File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nbconvert/exporters/templateexporter.py", line 390, in from_notebook_node
+        output = self.template.render(nb=nb_copy, resources=resources)
+      File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/jinja2/environment.py", line 1304, in render
+        self.environment.handle_exception()
+      File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/jinja2/environment.py", line 925, in handle_exception
+        raise rewrite_traceback_stack(source=source)
+      File "/Library/Frameworks/Python.framework/Versions/3.9/share/jupyter/nbconvert/templates/latex/index.tex.j2", line 8, in top-level template code
+        ((* extends cell_style *))
+      File "/Library/Frameworks/Python.framework/Versions/3.9/share/jupyter/nbconvert/templates/latex/style_jupyter.tex.j2", line 176, in top-level template code
+        \prompt{(((prompt)))}{(((prompt_color)))}{(((execution_count)))}{(((extra_space)))}
+      File "/Library/Frameworks/Python.framework/Versions/3.9/share/jupyter/nbconvert/templates/latex/base.tex.j2", line 7, in top-level template code
+        ((*- extends 'document_contents.tex.j2' -*))
+      File "/Library/Frameworks/Python.framework/Versions/3.9/share/jupyter/nbconvert/templates/latex/document_contents.tex.j2", line 51, in top-level template code
+        ((*- block figure scoped -*))
+      File "/Library/Frameworks/Python.framework/Versions/3.9/share/jupyter/nbconvert/templates/latex/display_priority.j2", line 5, in top-level template code
+        ((*- extends 'null.j2' -*))
+      File "/Library/Frameworks/Python.framework/Versions/3.9/share/jupyter/nbconvert/templates/latex/null.j2", line 30, in top-level template code
+        ((*- block body -*))
+      File "/Library/Frameworks/Python.framework/Versions/3.9/share/jupyter/nbconvert/templates/latex/base.tex.j2", line 206, in block 'body'
+        ((( super() )))
+      File "/Library/Frameworks/Python.framework/Versions/3.9/share/jupyter/nbconvert/templates/latex/null.j2", line 32, in block 'body'
+        ((*- block any_cell scoped -*))
+      File "/Library/Frameworks/Python.framework/Versions/3.9/share/jupyter/nbconvert/templates/latex/null.j2", line 85, in block 'any_cell'
+        ((*- block markdowncell scoped-*)) ((*- endblock markdowncell -*))
+      File "/Library/Frameworks/Python.framework/Versions/3.9/share/jupyter/nbconvert/templates/latex/document_contents.tex.j2", line 68, in block 'markdowncell'
+        ((( cell.source | citation2latex | strip_files_prefix | convert_pandoc('markdown+tex_math_double_backslash', 'json',extra_args=[]) | resolve_references | convert_pandoc('json','latex'))))
+      File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nbconvert/filters/pandoc.py", line 24, in convert_pandoc
+        return pandoc(source, from_format, to_format, extra_args=extra_args)
+      File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nbconvert/utils/pandoc.py", line 52, in pandoc
+        check_pandoc_version()
+      File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nbconvert/utils/pandoc.py", line 100, in check_pandoc_version
+        v = get_pandoc_version()
+      File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nbconvert/utils/pandoc.py", line 77, in get_pandoc_version
+        raise PandocMissing()
+    nbconvert.utils.pandoc.PandocMissing: Pandoc wasn't found.
+    Please check that pandoc is installed:
+    https://pandoc.org/installing.html
+[W 16:58:16.888 NotebookApp] 500 GET /nbconvert/latex/Python_Basic.ipynb?download=true (::1): nbconvert failed: Pandoc wasn't found.
+    Please check that pandoc is installed:
+    https://pandoc.org/installing.html
+[E 16:58:16.889 NotebookApp] {
+      "Host": "localhost:65530",
+      "Connection": "keep-alive",
+      "Sec-Ch-Ua": "\"Google Chrome\";v=\"93\", \" Not;A Brand\";v=\"99\", \"Chromium\";v=\"93\"",
+      "Sec-Ch-Ua-Mobile": "?0",
+      "Sec-Ch-Ua-Platform": "\"macOS\"",
+      "Upgrade-Insecure-Requests": "1",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36",
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+      "Sec-Fetch-Site": "same-origin",
+      "Sec-Fetch-Mode": "navigate",
+      "Sec-Fetch-Dest": "document",
+      "Referer": "http://localhost:65530/notebooks/Python_Basic.ipynb",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "zh-CN,zh;q=0.9",
+      "Cookie": "_xsrf=2|2b3b7a42|e91a111a6b1540f3aa65afdf1551e817|1632551390; username-localhost-8888=\"2|1:0|10:1632558821|23:username-localhost-8888|44:NmFhZGZkOTg5OTIxNDA2NjhlOGVkZmZhOWVjZjM2YTI=|07f0fc271e2e04c60a1e55aa55e089e1e88e48bc1ea0e9a1ac441b9d89e8e368\"; jp_token=17c2681535aa4910ae8b49aa0edc1ef3.2KptvvqoFoEOo3tP13eOOcB_6Vo; username-localhost-65530=\"2|1:0|10:1632730207|24:username-localhost-65530|44:YTBiNGQ5ZDA1NzNhNDhkNTg2MjlmYjhiMDU5MWNlZWI=|eea917b53365b95c8a0876328c51d08c49dfc3d676a884885fe8702664361fde\""
+    }
+[E 16:58:16.889 NotebookApp] 500 GET /nbconvert/latex/Python_Basic.ipynb?download=true (::1) 248.770000ms referer=http://localhost:65530/notebooks/Python_Basic.ipynb
+[W 16:58:33.356 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[E 16:58:33.377 NotebookApp] nbconvert failed: Pyppeteer is not installed to support Web PDF conversion. Please install `nbconvert[webpdf]` to enable.
+    Traceback (most recent call last):
+      File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nbconvert/exporters/webpdf.py", line 72, in _check_launch_reqs
+        from pyppeteer import launch
+    ModuleNotFoundError: No module named 'pyppeteer'
+    
+    The above exception was the direct cause of the following exception:
+    
+    Traceback (most recent call last):
+      File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/notebook/nbconvert/handlers.py", line 129, in get
+        output, resources = exporter.from_notebook_node(
+      File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nbconvert/exporters/webpdf.py", line 147, in from_notebook_node
+        self._check_launch_reqs()
+      File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nbconvert/exporters/webpdf.py", line 75, in _check_launch_reqs
+        raise RuntimeError("Pyppeteer is not installed to support Web PDF conversion. "
+    RuntimeError: Pyppeteer is not installed to support Web PDF conversion. Please install `nbconvert[webpdf]` to enable.
+[W 16:58:33.378 NotebookApp] 500 GET /nbconvert/webpdf/Python_Basic.ipynb?download=true (::1): nbconvert failed: Pyppeteer is not installed to support Web PDF conversion. Please install `nbconvert[webpdf]` to enable.
+[E 16:58:33.379 NotebookApp] {
+      "Host": "localhost:65530",
+      "Connection": "keep-alive",
+      "Sec-Ch-Ua": "\"Google Chrome\";v=\"93\", \" Not;A Brand\";v=\"99\", \"Chromium\";v=\"93\"",
+      "Sec-Ch-Ua-Mobile": "?0",
+      "Sec-Ch-Ua-Platform": "\"macOS\"",
+      "Upgrade-Insecure-Requests": "1",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36",
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+      "Sec-Fetch-Site": "same-origin",
+      "Sec-Fetch-Mode": "navigate",
+      "Sec-Fetch-Dest": "document",
+      "Referer": "http://localhost:65530/notebooks/Python_Basic.ipynb",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "zh-CN,zh;q=0.9",
+      "Cookie": "_xsrf=2|2b3b7a42|e91a111a6b1540f3aa65afdf1551e817|1632551390; username-localhost-8888=\"2|1:0|10:1632558821|23:username-localhost-8888|44:NmFhZGZkOTg5OTIxNDA2NjhlOGVkZmZhOWVjZjM2YTI=|07f0fc271e2e04c60a1e55aa55e089e1e88e48bc1ea0e9a1ac441b9d89e8e368\"; jp_token=17c2681535aa4910ae8b49aa0edc1ef3.2KptvvqoFoEOo3tP13eOOcB_6Vo; username-localhost-65530=\"2|1:0|10:1632730207|24:username-localhost-65530|44:YTBiNGQ5ZDA1NzNhNDhkNTg2MjlmYjhiMDU5MWNlZWI=|eea917b53365b95c8a0876328c51d08c49dfc3d676a884885fe8702664361fde\""
+    }
+[E 16:58:33.379 NotebookApp] 500 GET /nbconvert/webpdf/Python_Basic.ipynb?download=true (::1) 79.750000ms referer=http://localhost:65530/notebooks/Python_Basic.ipynb
+[W 16:58:40.766 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[E 16:58:40.950 NotebookApp] nbconvert failed: Pandoc wasn't found.
+    Please check that pandoc is installed:
+    https://pandoc.org/installing.html
+    Traceback (most recent call last):
+      File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/notebook/nbconvert/handlers.py", line 129, in get
+        output, resources = exporter.from_notebook_node(
+      File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nbconvert/exporters/pdf.py", line 168, in from_notebook_node
+        latex, resources = super().from_notebook_node(
+      File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nbconvert/exporters/latex.py", line 77, in from_notebook_node
+        return super().from_notebook_node(nb, resources, **kw)
+      File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nbconvert/exporters/templateexporter.py", line 390, in from_notebook_node
+        output = self.template.render(nb=nb_copy, resources=resources)
+      File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/jinja2/environment.py", line 1304, in render
+        self.environment.handle_exception()
+      File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/jinja2/environment.py", line 925, in handle_exception
+        raise rewrite_traceback_stack(source=source)
+      File "/Library/Frameworks/Python.framework/Versions/3.9/share/jupyter/nbconvert/templates/latex/index.tex.j2", line 8, in top-level template code
+        ((* extends cell_style *))
+      File "/Library/Frameworks/Python.framework/Versions/3.9/share/jupyter/nbconvert/templates/latex/style_jupyter.tex.j2", line 176, in top-level template code
+        \prompt{(((prompt)))}{(((prompt_color)))}{(((execution_count)))}{(((extra_space)))}
+      File "/Library/Frameworks/Python.framework/Versions/3.9/share/jupyter/nbconvert/templates/latex/base.tex.j2", line 7, in top-level template code
+        ((*- extends 'document_contents.tex.j2' -*))
+      File "/Library/Frameworks/Python.framework/Versions/3.9/share/jupyter/nbconvert/templates/latex/document_contents.tex.j2", line 51, in top-level template code
+        ((*- block figure scoped -*))
+      File "/Library/Frameworks/Python.framework/Versions/3.9/share/jupyter/nbconvert/templates/latex/display_priority.j2", line 5, in top-level template code
+        ((*- extends 'null.j2' -*))
+      File "/Library/Frameworks/Python.framework/Versions/3.9/share/jupyter/nbconvert/templates/latex/null.j2", line 30, in top-level template code
+        ((*- block body -*))
+      File "/Library/Frameworks/Python.framework/Versions/3.9/share/jupyter/nbconvert/templates/latex/base.tex.j2", line 206, in block 'body'
+        ((( super() )))
+      File "/Library/Frameworks/Python.framework/Versions/3.9/share/jupyter/nbconvert/templates/latex/null.j2", line 32, in block 'body'
+        ((*- block any_cell scoped -*))
+      File "/Library/Frameworks/Python.framework/Versions/3.9/share/jupyter/nbconvert/templates/latex/null.j2", line 85, in block 'any_cell'
+        ((*- block markdowncell scoped-*)) ((*- endblock markdowncell -*))
+      File "/Library/Frameworks/Python.framework/Versions/3.9/share/jupyter/nbconvert/templates/latex/document_contents.tex.j2", line 68, in block 'markdowncell'
+        ((( cell.source | citation2latex | strip_files_prefix | convert_pandoc('markdown+tex_math_double_backslash', 'json',extra_args=[]) | resolve_references | convert_pandoc('json','latex'))))
+      File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nbconvert/filters/pandoc.py", line 24, in convert_pandoc
+        return pandoc(source, from_format, to_format, extra_args=extra_args)
+      File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nbconvert/utils/pandoc.py", line 52, in pandoc
+        check_pandoc_version()
+      File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nbconvert/utils/pandoc.py", line 100, in check_pandoc_version
+        v = get_pandoc_version()
+      File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/nbconvert/utils/pandoc.py", line 77, in get_pandoc_version
+        raise PandocMissing()
+    nbconvert.utils.pandoc.PandocMissing: Pandoc wasn't found.
+    Please check that pandoc is installed:
+    https://pandoc.org/installing.html
+[W 16:58:40.952 NotebookApp] 500 GET /nbconvert/pdf/Python_Basic.ipynb?download=true (::1): nbconvert failed: Pandoc wasn't found.
+    Please check that pandoc is installed:
+    https://pandoc.org/installing.html
+[E 16:58:40.952 NotebookApp] {
+      "Host": "localhost:65530",
+      "Connection": "keep-alive",
+      "Sec-Ch-Ua": "\"Google Chrome\";v=\"93\", \" Not;A Brand\";v=\"99\", \"Chromium\";v=\"93\"",
+      "Sec-Ch-Ua-Mobile": "?0",
+      "Sec-Ch-Ua-Platform": "\"macOS\"",
+      "Upgrade-Insecure-Requests": "1",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36",
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+      "Sec-Fetch-Site": "same-origin",
+      "Sec-Fetch-Mode": "navigate",
+      "Sec-Fetch-Dest": "document",
+      "Referer": "http://localhost:65530/notebooks/Python_Basic.ipynb",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "zh-CN,zh;q=0.9",
+      "Cookie": "_xsrf=2|2b3b7a42|e91a111a6b1540f3aa65afdf1551e817|1632551390; username-localhost-8888=\"2|1:0|10:1632558821|23:username-localhost-8888|44:NmFhZGZkOTg5OTIxNDA2NjhlOGVkZmZhOWVjZjM2YTI=|07f0fc271e2e04c60a1e55aa55e089e1e88e48bc1ea0e9a1ac441b9d89e8e368\"; jp_token=17c2681535aa4910ae8b49aa0edc1ef3.2KptvvqoFoEOo3tP13eOOcB_6Vo; username-localhost-65530=\"2|1:0|10:1632730207|24:username-localhost-65530|44:YTBiNGQ5ZDA1NzNhNDhkNTg2MjlmYjhiMDU5MWNlZWI=|eea917b53365b95c8a0876328c51d08c49dfc3d676a884885fe8702664361fde\""
+    }
+[E 16:58:40.953 NotebookApp] 500 GET /nbconvert/pdf/Python_Basic.ipynb?download=true (::1) 242.710000ms referer=http://localhost:65530/notebooks/Python_Basic.ipynb
+[I 17:13:43.990 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 17:13:44.872 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 17:17:43.936 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 17:19:43.938 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 17:20:51.655 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 17:25:43.929 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 17:27:43.919 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 17:33:43.841 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 17:35:44.130 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 17:37:43.839 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 18:41:56.833 NotebookApp] Starting buffering for e9eb8819-806a-46ea-af48-4c361a827057:11599a3436f247708af14d69e93ae0ac
+[I 18:41:58.226 NotebookApp] Restoring connection for e9eb8819-806a-46ea-af48-4c361a827057:11599a3436f247708af14d69e93ae0ac
+[I 18:41:58.759 NotebookApp] Starting buffering for e9eb8819-806a-46ea-af48-4c361a827057:11599a3436f247708af14d69e93ae0ac
+[I 18:42:00.664 NotebookApp] Restoring connection for e9eb8819-806a-46ea-af48-4c361a827057:11599a3436f247708af14d69e93ae0ac
+[I 22:55:37.006 NotebookApp] Starting buffering for e9eb8819-806a-46ea-af48-4c361a827057:11599a3436f247708af14d69e93ae0ac
+[I 22:55:38.925 NotebookApp] Restoring connection for e9eb8819-806a-46ea-af48-4c361a827057:11599a3436f247708af14d69e93ae0ac
+[I 06:01:17.580 NotebookApp] Starting buffering for e9eb8819-806a-46ea-af48-4c361a827057:11599a3436f247708af14d69e93ae0ac
+[I 06:01:19.343 NotebookApp] Restoring connection for e9eb8819-806a-46ea-af48-4c361a827057:11599a3436f247708af14d69e93ae0ac
+[I 15:30:08.487 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 15:32:08.349 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 15:34:08.349 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 15:36:08.336 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 15:37:03.645 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 15:37:03.997 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 15:37:04.171 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 15:37:04.325 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 15:38:08.334 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 15:40:08.329 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 15:42:08.312 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 15:42:09.780 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 15:44:08.314 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 15:46:08.299 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 15:46:18.647 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 15:47:28.683 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 15:48:08.380 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 17:07:57.925 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 17:08:08.628 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 17:09:09.994 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 17:10:08.640 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 17:12:08.647 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 17:13:22.759 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 17:14:08.647 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 17:20:08.651 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 17:24:08.655 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 17:26:08.658 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 17:28:08.657 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 19:12:08.295 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 19:12:35.350 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 19:14:08.271 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 19:16:08.268 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 19:46:08.248 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 19:48:08.235 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 19:49:32.931 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 19:50:08.219 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 19:52:08.219 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 19:54:08.215 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 19:55:33.658 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 19:56:08.213 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 19:56:11.162 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 19:57:28.179 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 19:58:08.214 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 20:28:08.182 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 20:29:06.581 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 20:30:08.176 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 20:32:08.161 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 20:34:08.172 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 21:02:08.148 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 21:04:08.121 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 21:06:08.125 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 21:14:08.113 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 21:18:08.112 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 21:20:08.099 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 21:21:39.793 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 21:24:08.075 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 21:26:08.074 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 21:28:08.073 NotebookApp] Saving file at /Python_Basic.ipynb
+[I 23:28:52.234 NotebookApp] Starting buffering for e9eb8819-806a-46ea-af48-4c361a827057:11599a3436f247708af14d69e93ae0ac
+[I 23:28:53.815 NotebookApp] Restoring connection for e9eb8819-806a-46ea-af48-4c361a827057:11599a3436f247708af14d69e93ae0ac
+[I 06:50:43.740 NotebookApp] Starting buffering for e9eb8819-806a-46ea-af48-4c361a827057:11599a3436f247708af14d69e93ae0ac
+[I 06:50:46.616 NotebookApp] Restoring connection for e9eb8819-806a-46ea-af48-4c361a827057:11599a3436f247708af14d69e93ae0ac
+[I 11:20:14.961 NotebookApp] Starting buffering for e9eb8819-806a-46ea-af48-4c361a827057:11599a3436f247708af14d69e93ae0ac
+[I 11:20:17.669 NotebookApp] Restoring connection for e9eb8819-806a-46ea-af48-4c361a827057:11599a3436f247708af14d69e93ae0ac
+[I 14:40:36.463 NotebookApp] Starting buffering for e9eb8819-806a-46ea-af48-4c361a827057:11599a3436f247708af14d69e93ae0ac
+[I 14:40:39.288 NotebookApp] Restoring connection for e9eb8819-806a-46ea-af48-4c361a827057:11599a3436f247708af14d69e93ae0ac
+[I 17:17:59.277 NotebookApp] Starting buffering for e9eb8819-806a-46ea-af48-4c361a827057:11599a3436f247708af14d69e93ae0ac
+[W 17:18:18.795 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 23:19:33.669 NotebookApp] Starting buffering for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 23:19:36.466 NotebookApp] Restoring connection for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 06:28:13.496 NotebookApp] Starting buffering for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 06:28:16.204 NotebookApp] Restoring connection for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 23:24:39.845 NotebookApp] Starting buffering for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 23:24:42.401 NotebookApp] Restoring connection for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 06:07:15.308 NotebookApp] Starting buffering for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 06:07:17.311 NotebookApp] Restoring connection for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 07:46:14.099 NotebookApp] Starting buffering for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 07:46:16.802 NotebookApp] Restoring connection for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 17:04:50.839 NotebookApp] Starting buffering for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 17:04:53.385 NotebookApp] Restoring connection for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 17:04:56.581 NotebookApp] Starting buffering for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 17:04:57.884 NotebookApp] Restoring connection for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 18:38:15.924 NotebookApp] Starting buffering for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 18:38:17.763 NotebookApp] Restoring connection for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 20:44:13.565 NotebookApp] Starting buffering for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 20:44:15.131 NotebookApp] Restoring connection for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 06:13:51.524 NotebookApp] Starting buffering for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 06:13:53.894 NotebookApp] Restoring connection for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 11:22:50.148 NotebookApp] Starting buffering for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 11:22:52.875 NotebookApp] Restoring connection for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 18:25:52.850 NotebookApp] Starting buffering for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 18:25:54.647 NotebookApp] Restoring connection for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 20:05:18.498 NotebookApp] Starting buffering for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 20:05:21.006 NotebookApp] Restoring connection for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 07:47:53.877 NotebookApp] Starting buffering for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 07:47:55.729 NotebookApp] Restoring connection for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 07:51:15.571 NotebookApp] Starting buffering for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 07:51:17.750 NotebookApp] Restoring connection for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 23:29:52.747 NotebookApp] Starting buffering for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 23:29:54.458 NotebookApp] Restoring connection for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 06:47:24.393 NotebookApp] Starting buffering for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 06:47:26.898 NotebookApp] Restoring connection for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 08:12:36.739 NotebookApp] Starting buffering for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 08:12:38.470 NotebookApp] Restoring connection for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 10:51:37.131 NotebookApp] Starting buffering for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 10:51:39.015 NotebookApp] Restoring connection for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 11:56:16.184 NotebookApp] Starting buffering for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 11:56:17.760 NotebookApp] Restoring connection for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 12:21:23.115 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 12:21:23.121 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 12:31:23.034 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 12:31:23.038 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 12:33:23.036 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 12:33:23.039 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 12:35:23.034 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 12:35:23.037 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 12:37:23.033 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 12:37:23.036 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 12:39:22.998 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 12:39:23.003 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 12:41:22.991 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 12:41:22.995 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 12:43:23.002 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 12:43:23.006 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 12:55:37.008 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 12:55:37.012 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 12:57:22.929 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 12:57:22.932 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 12:59:22.908 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 12:59:22.911 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 13:03:25.639 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 13:03:25.643 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 13:07:22.886 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 13:07:22.889 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 13:09:22.887 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 13:09:22.892 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 13:10:11.268 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 13:10:11.273 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 13:11:22.902 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 13:11:22.905 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 13:13:28.489 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 13:13:28.492 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 14:01:22.783 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 14:01:22.789 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 14:03:22.778 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 14:03:22.782 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 14:05:22.769 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 14:05:22.772 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 14:05:49.886 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 14:05:49.890 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 14:05:50.245 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 14:05:50.248 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 14:05:50.406 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 14:05:50.408 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 14:05:50.591 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 14:05:50.593 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 14:06:53.590 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 14:06:53.593 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 14:07:22.756 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 14:07:22.760 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 14:09:08.847 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 14:09:08.852 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 14:09:22.779 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 14:09:22.782 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 14:11:22.788 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 14:11:22.792 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 14:12:07.666 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 14:12:07.670 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 14:13:22.780 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 14:13:22.783 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 14:15:22.787 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 14:15:22.792 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 14:17:22.784 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 14:17:22.788 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 14:19:22.779 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 14:19:22.782 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 14:19:38.722 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 14:19:38.726 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 14:21:22.773 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 14:21:22.778 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 14:25:22.767 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 14:25:22.771 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 14:25:50.776 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 14:25:50.780 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 14:27:22.763 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 14:27:22.767 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 14:27:33.116 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 14:27:33.121 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 14:29:22.759 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 14:29:22.764 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 14:31:22.752 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 14:31:22.756 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 14:33:22.753 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 14:33:22.803 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 14:35:08.444 NotebookApp] Kernel interrupted: e9eb8819-806a-46ea-af48-4c361a827057
+[I 14:35:22.742 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 14:35:22.746 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 14:37:22.735 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 14:37:22.739 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 14:39:22.741 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 14:39:22.744 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 14:41:22.731 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 14:41:22.734 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 14:43:22.727 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 14:43:22.731 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 14:45:22.692 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 14:45:22.696 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 14:47:22.675 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 14:47:22.678 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 14:49:22.678 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 14:49:22.683 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 14:50:33.182 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 14:50:33.186 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 14:55:22.659 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 14:55:22.662 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 14:57:19.655 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 14:57:19.660 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 15:31:22.667 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 15:31:22.673 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 15:32:46.342 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 15:32:46.347 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 15:32:46.565 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 15:32:46.567 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 15:32:46.752 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 15:32:46.754 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 15:32:46.952 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 15:32:46.954 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 15:32:47.135 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 15:32:47.137 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 15:32:47.342 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 15:32:47.344 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 15:32:47.516 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 15:32:47.517 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 15:33:22.654 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 15:33:22.659 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 15:35:16.167 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 15:35:16.171 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 15:35:22.654 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 15:35:22.658 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 15:39:22.651 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 15:39:22.657 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 15:41:22.654 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 15:41:22.659 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 15:42:17.994 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 15:42:17.999 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 15:43:22.643 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 15:43:22.647 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 15:43:55.517 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 15:43:55.522 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 15:45:22.637 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 15:45:22.641 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 15:49:22.633 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 15:49:22.637 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 15:51:22.637 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 15:51:22.641 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 15:53:22.631 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 15:53:22.635 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 15:55:22.633 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 15:55:22.637 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 15:57:22.652 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 15:57:22.656 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 15:57:51.417 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 15:57:51.421 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 15:57:59.641 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 15:57:59.646 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 15:58:50.427 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 15:58:50.430 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 15:58:50.682 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 15:58:50.683 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 15:58:50.858 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 15:58:50.859 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 16:01:22.637 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 16:01:22.640 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 16:03:22.644 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 16:03:22.648 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 16:23:22.621 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 16:23:22.628 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 16:25:22.618 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 16:25:22.621 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 16:27:22.604 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 16:27:22.608 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 16:29:22.610 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 16:29:22.616 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 16:31:22.608 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 16:31:22.614 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 16:33:22.606 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 16:33:22.610 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 16:35:22.594 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 16:35:22.598 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 16:37:06.878 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 16:37:06.882 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 16:38:12.895 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 16:38:12.899 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 16:38:13.103 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 16:38:13.104 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 16:38:13.278 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 16:38:13.280 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 16:38:13.451 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 16:38:13.453 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 16:38:13.662 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 16:38:13.664 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 16:38:13.816 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 16:38:13.818 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 16:39:03.305 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 16:39:03.308 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 16:39:22.596 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 16:39:22.603 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 16:42:22.521 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 16:42:22.524 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 16:43:22.584 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 16:43:22.590 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 16:44:29.033 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 16:44:29.038 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 16:45:22.607 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 16:45:22.610 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 16:45:23.559 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 16:45:23.564 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 16:45:52.075 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 16:45:52.080 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 16:47:22.609 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 16:47:22.613 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 16:49:22.579 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 16:49:22.583 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 16:51:11.354 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 16:51:11.359 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 16:55:22.564 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 16:55:22.568 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 16:57:22.553 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 16:57:22.558 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 16:59:22.559 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 16:59:22.565 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 17:01:22.549 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 17:01:22.554 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 17:03:22.540 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 17:03:22.544 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 17:03:39.536 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 17:03:39.540 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 17:09:23.998 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 17:09:24.004 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 17:11:12.541 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 17:11:12.546 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 17:11:12.793 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 17:11:12.794 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 17:11:12.997 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 17:11:12.999 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 17:11:13.216 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 17:11:13.219 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 17:11:13.574 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 17:11:13.578 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 17:12:51.753 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 17:12:51.757 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 17:13:22.528 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 17:13:22.531 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 17:13:35.389 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 17:13:35.393 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 17:15:22.523 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 17:15:22.527 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 17:17:22.535 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 17:17:22.540 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 17:17:46.861 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 17:17:46.866 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 17:18:13.926 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 17:18:13.930 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 17:18:14.274 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 17:18:14.278 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 17:18:14.423 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 17:18:14.424 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 17:18:14.575 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 17:18:14.576 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 17:19:22.533 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 17:19:22.537 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 17:20:54.140 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 17:20:54.144 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 17:21:22.524 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 17:21:22.529 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 17:22:39.062 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 17:22:39.066 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 17:23:22.519 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 17:23:22.523 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 17:23:37.649 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 17:23:37.654 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 17:25:22.526 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 17:25:22.529 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 17:27:22.514 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 17:27:22.518 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 17:27:52.819 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 17:27:52.824 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 17:28:27.943 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 17:28:27.948 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 17:29:22.517 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 17:29:22.523 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 17:29:27.483 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 17:29:27.488 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 17:30:01.104 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 17:30:01.109 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 19:29:43.547 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 19:29:43.554 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 19:31:22.210 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 19:31:22.215 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 19:31:44.473 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 19:31:44.478 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 19:33:29.686 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 19:33:29.690 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 19:35:30.604 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 19:35:30.609 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 19:35:31.049 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 19:35:31.053 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 19:35:31.286 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 19:35:31.288 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 19:35:48.579 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 19:35:48.583 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 19:36:04.849 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 19:36:04.854 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 19:36:43.619 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 19:36:43.623 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 19:36:47.560 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 19:36:47.564 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 19:36:54.798 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 19:36:54.803 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 01:12:51.013 NotebookApp] Starting buffering for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 01:12:53.566 NotebookApp] Restoring connection for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 01:18:17.301 NotebookApp] Starting buffering for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 01:18:18.884 NotebookApp] Restoring connection for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 01:36:29.871 NotebookApp] Starting buffering for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 01:36:32.130 NotebookApp] Restoring connection for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 01:45:04.631 NotebookApp] Starting buffering for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 01:45:06.519 NotebookApp] Restoring connection for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 01:47:08.340 NotebookApp] Starting buffering for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 01:47:10.750 NotebookApp] Restoring connection for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 01:50:06.978 NotebookApp] Starting buffering for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 01:50:09.493 NotebookApp] Restoring connection for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 05:57:16.685 NotebookApp] Starting buffering for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 05:57:18.322 NotebookApp] Restoring connection for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 06:58:11.465 NotebookApp] Starting buffering for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 06:58:13.261 NotebookApp] Restoring connection for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 09:44:42.640 NotebookApp] Starting buffering for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 09:44:44.999 NotebookApp] Restoring connection for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 09:48:37.126 NotebookApp] Starting buffering for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 09:48:39.479 NotebookApp] Restoring connection for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[I 14:08:06.659 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 14:08:06.664 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 14:10:06.653 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 14:10:06.657 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 14:12:06.651 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 14:12:06.657 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 14:13:45.338 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 14:13:45.343 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 14:14:06.645 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 14:14:06.650 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 14:16:06.646 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 14:16:06.652 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 14:20:06.638 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 14:20:06.643 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 14:34:06.628 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 14:34:06.633 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 14:36:06.598 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 14:36:06.602 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 14:37:45.073 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 14:37:45.075 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 14:37:45.159 NotebookApp] Starting buffering for e9eb8819-806a-46ea-af48-4c361a827057:ae4469608e65487e8e78b39585559399
+[W 14:37:45.349 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 14:38:30.738 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 14:38:30.743 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 14:38:48.391 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 14:38:48.396 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 14:39:11.467 NotebookApp] Saving file at /Python_Basic.ipynb
+[W 14:39:11.471 NotebookApp] Notebook Python_Basic.ipynb is not trusted
+[I 14:39:16.279 NotebookApp] Kernel interrupted: e9eb8819-806a-46ea-af48-4c361a827057
+[I 14:39:27.946 NotebookApp] Creating new notebook in 
+[I 14:39:28.463 NotebookApp] Kernel started: 65dc64fa-6d0f-481c-9512-f87249159048, name: python3
+[I 14:39:33.037 NotebookApp] Starting buffering for e9eb8819-806a-46ea-af48-4c361a827057:7cf697b32c054607a0ad21f09189ac65
+[I 14:39:36.722 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:39:36.730 NotebookApp] Starting buffering for 65dc64fa-6d0f-481c-9512-f87249159048:6f9d690cf5e3497e94b554846a1c79f1
+[I 14:40:13.205 NotebookApp] Creating new notebook in 
+[I 14:40:13.635 NotebookApp] Kernel started: 8a0f0fd3-0f65-48bb-8b92-a6f7e26c3ac3, name: python3
+[I 14:42:13.632 NotebookApp] Saving file at /面向对象.ipynb
+[I 14:46:13.613 NotebookApp] Saving file at /面向对象.ipynb
+[I 14:48:13.624 NotebookApp] Saving file at /面向对象.ipynb
+[I 14:50:13.608 NotebookApp] Saving file at /面向对象.ipynb
+[I 14:50:35.088 NotebookApp] Saving file at /面向对象.ipynb
+[I 14:52:13.605 NotebookApp] Saving file at /面向对象.ipynb
+[I 14:54:13.601 NotebookApp] Saving file at /面向对象.ipynb
+[I 15:02:13.588 NotebookApp] Saving file at /面向对象.ipynb
+[I 15:03:12.485 NotebookApp] Saving file at /面向对象.ipynb
+[I 15:04:13.578 NotebookApp] Saving file at /面向对象.ipynb
+[I 15:05:27.776 NotebookApp] Saving file at /面向对象.ipynb
+[I 15:06:13.578 NotebookApp] Saving file at /面向对象.ipynb
+[I 15:23:05.284 NotebookApp] Saving file at /面向对象.ipynb
+[I 15:24:13.539 NotebookApp] Saving file at /面向对象.ipynb
+[I 15:26:13.535 NotebookApp] Saving file at /面向对象.ipynb
+[I 15:27:10.537 NotebookApp] Saving file at /面向对象.ipynb
+[I 15:47:21.854 NotebookApp] Saving file at /面向对象.ipynb
+[I 15:47:46.579 NotebookApp] Saving file at /面向对象.ipynb
+[I 15:48:13.496 NotebookApp] Saving file at /面向对象.ipynb
+[I 15:48:32.448 NotebookApp] Saving file at /面向对象.ipynb
+[I 15:50:13.493 NotebookApp] Saving file at /面向对象.ipynb
+[I 15:50:47.532 NotebookApp] Saving file at /面向对象.ipynb
+[I 15:51:34.266 NotebookApp] Saving file at /面向对象.ipynb
+[I 15:55:09.581 NotebookApp] Saving file at /面向对象.ipynb
+[I 15:56:13.416 NotebookApp] Saving file at /面向对象.ipynb
+[I 15:58:13.404 NotebookApp] Saving file at /面向对象.ipynb
+[I 15:59:04.330 NotebookApp] Saving file at /面向对象.ipynb
+[I 16:00:03.880 NotebookApp] Saving file at /面向对象.ipynb
+[I 16:02:13.401 NotebookApp] Saving file at /面向对象.ipynb
+[I 16:02:32.834 NotebookApp] Saving file at /面向对象.ipynb
+[I 16:03:52.697 NotebookApp] Saving file at /面向对象.ipynb
+[I 16:05:17.509 NotebookApp] Saving file at /面向对象.ipynb
+[I 16:06:13.388 NotebookApp] Saving file at /面向对象.ipynb
+[I 16:07:09.724 NotebookApp] Saving file at /面向对象.ipynb
+[I 16:08:13.385 NotebookApp] Saving file at /面向对象.ipynb
+[I 16:08:38.876 NotebookApp] Saving file at /面向对象.ipynb
+[I 16:12:13.377 NotebookApp] Saving file at /面向对象.ipynb
+[I 16:14:08.926 NotebookApp] Saving file at /面向对象.ipynb
+[I 16:17:41.349 NotebookApp] Saving file at /面向对象.ipynb
+[I 16:26:13.338 NotebookApp] Saving file at /面向对象.ipynb
+[I 16:27:01.953 NotebookApp] Saving file at /面向对象.ipynb
+[I 16:28:10.444 NotebookApp] Saving file at /面向对象.ipynb
+[I 16:29:05.437 NotebookApp] Saving file at /面向对象.ipynb
+[I 16:29:19.888 NotebookApp] Saving file at /面向对象.ipynb
+[I 16:33:04.553 NotebookApp] Saving file at /面向对象.ipynb
+[I 16:34:13.357 NotebookApp] Saving file at /面向对象.ipynb
+[I 16:36:13.358 NotebookApp] Saving file at /面向对象.ipynb
+[I 16:37:59.294 NotebookApp] Saving file at /面向对象.ipynb
+[I 16:40:13.353 NotebookApp] Saving file at /面向对象.ipynb
+[I 16:41:50.272 NotebookApp] Saving file at /面向对象.ipynb
+[I 16:42:13.345 NotebookApp] Saving file at /面向对象.ipynb
+[I 16:44:13.345 NotebookApp] Saving file at /面向对象.ipynb
+[I 16:46:13.337 NotebookApp] Saving file at /面向对象.ipynb
+[I 16:48:01.142 NotebookApp] Saving file at /面向对象.ipynb
