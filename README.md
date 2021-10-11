@@ -2,3 +2,6 @@
 
 
 git pull git@github.com:jingwei269/python_test.git
+
+
+pyinstaller --onefile --windowed python.py
